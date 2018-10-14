@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 3PAR Nagios check script v0.3
-# Last update 2014/08/13 marcel@edgexs.nl
+# Last update 2014/08/13 Marcel Stangenberger
 
 # Changelist
 # 2014/08/13
