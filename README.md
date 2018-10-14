@@ -12,8 +12,10 @@ Please make sure the CONNECTCOMMAND variable matches with your environment.
  - adjust check_port_fc so it works with InFormOS 3.1.2MU3 and does not whine about free ports
 
 ## 3PAR Nagios check script v0.2
-Last update 2010/05/14 fredl@3par.com
-Last update 2011/03/03 ddu@antemeta.fr
+- Last update 2010/05/14 fredl@3par.com
+- Last update 2011/03/03 ddu@antemeta.fr
+
+## Disclaimer
 
 This script is provided "as is" without warranty of any kind and 3PAR specifically disclaims all implied warranties of merchantability, 
 non-infringement and fitness for a particular purpose. In no event shall 3PAR have any liability arising out of or related to 
@@ -21,6 +23,7 @@ customer's 'use of the script including lost data, lost profits, or any direct o
 consequential damages arising there from.
 In addition, 3PAR reserves the right not to perform fixes or updates to this script
 
+## Usage
 
  Usage : check_3par InServ Username Command
 
